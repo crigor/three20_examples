@@ -1,6 +1,6 @@
 Three20 Examples
 ================
-Three20 Examples are iPhone apps that uses the [Three20][] library built by Joe Hewitt.
+Three20 Examples are basic iPhone apps that demonstrate the [Three20][] library built by Joe Hewitt.
 
 Three20
 =======
