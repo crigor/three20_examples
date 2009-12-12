@@ -7,7 +7,7 @@
 
 @interface ALPhotoSource : TTModel <TTPhotoSource> {
     NSString* _title;
-	NSMutableArray* _photos;
+	NSArray* _photos;
 }
 
 @end
